@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10639bf6-56ec-4b4a-80b7-3f8cb1437291" name="Default Changelist" comment="" />
+    <list default="true" id="10639bf6-56ec-4b4a-80b7-3f8cb1437291" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/x_test_data_set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/x_train_data_set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/x_validation_data_set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/y_test_data_set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/y_train_data_set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/starCraft/y_validation_data_set.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AAAI-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AAAI-2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,32 +24,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train_GAN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-860">
-              <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+            <state relative-caret-position="100">
+              <caret line="404" column="29" selection-start-line="404" selection-start-column="29" selection-end-line="404" selection-end-column="29" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_concatenate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding>
-                <element signature="e#1#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/starCraft/sample_data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7250848">
-              <caret line="329584" selection-start-line="329584" selection-end-line="329584" />
             </state>
           </provider>
         </entry>
@@ -63,6 +53,9 @@
       <replace>D</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,47 +65,40 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="798" />
-    <option name="y" value="213" />
-    <option name="width" value="1080" />
-    <option name="height" value="687" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AAAI-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AAAI-2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AAAI-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AAAI-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AAAI-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AAAI-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="starCraft" type="462c0819:PsiDirectoryNode" />
+              <item name="DefogGAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DefogGAN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Crowd" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SDS\DEV\DefogGAN\DefogGAN\result\DefogGAN\best_model" />
+      <recent name="C:\Users\SDS\DEV\DefogGAN\DefogGAN\data\starCraft" />
       <recent name="C:\Users\Public\DEV\AAAI-2020\data\starCraft" />
     </key>
   </component>
@@ -201,9 +187,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12293144" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1536643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -216,7 +202,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32969603" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32969603" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.42433697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,27 +211,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/evaluation_compare_img_a.py" />
     <entry file="file://$PROJECT_DIR$/tt.txt" />
-    <entry file="file://$PROJECT_DIR$/data/starCraft/sample_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7250848">
-          <caret line="329584" selection-start-line="329584" selection-end-line="329584" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_concatenate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="e#1#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/starCraft/sample_data.csv" />
+    <entry file="file://$PROJECT_DIR$/data_concatenate.py" />
     <entry file="file://$PROJECT_DIR$/train_GAN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-860">
-          <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        <state relative-caret-position="100">
+          <caret line="404" column="29" selection-start-line="404" selection-start-column="29" selection-end-line="404" selection-end-column="29" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
